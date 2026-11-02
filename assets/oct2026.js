@@ -1,6 +1,96 @@
 /* New property photography, October 2026 */
 window.BK_NEW_PHOTOS=[
 {
+"id": "in-door-sign",
+"group": "inside",
+"caption": "Welcome to the B & K",
+"alt": "Green arrow sign reading The B and K Cabin hanging on the white front door",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-door-sign.jpg",
+"webp": "/assets/oct2026/in-door-sign-900.webp"
+},
+{
+"id": "in-kitchen-view",
+"group": "inside",
+"caption": "Kitchen and living area",
+"alt": "Wood-paneled kitchen with full-size refrigerator, shelves and microwave seen from the sofa",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-kitchen-view.jpg",
+"webp": "/assets/oct2026/in-kitchen-view-900.webp"
+},
+{
+"id": "in-kitchen-shelves",
+"group": "inside",
+"caption": "Cookware, coffee pot and dishes provided",
+"alt": "Open kitchen shelves with pots, pans, glasses, coffee maker, toaster and microwave",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-kitchen-shelves.jpg",
+"webp": "/assets/oct2026/in-kitchen-shelves-900.webp"
+},
+{
+"id": "in-dining",
+"group": "inside",
+"caption": "Dining table for the whole crew",
+"alt": "Wooden dining table and chairs in the wood-paneled cabin",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-dining.jpg",
+"webp": "/assets/oct2026/in-dining-900.webp"
+},
+{
+"id": "in-bedroom",
+"group": "inside",
+"caption": "Private queen bedroom",
+"alt": "Queen bed with a quilted spread and wooden headboard",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-bedroom.jpg",
+"webp": "/assets/oct2026/in-bedroom-900.webp"
+},
+{
+"id": "in-bunks",
+"group": "inside",
+"caption": "Twin bunk beds",
+"alt": "Wooden twin bunk beds with quilts",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-bunks.jpg",
+"webp": "/assets/oct2026/in-bunks-900.webp"
+},
+{
+"id": "in-kitchen-counter",
+"group": "inside",
+"caption": "Kitchen counter and sink",
+"alt": "Kitchen sink and wooden cabinets with a TV on the wall",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-kitchen-counter.jpg",
+"webp": "/assets/oct2026/in-kitchen-counter-900.webp"
+},
+{
+"id": "in-games",
+"group": "inside",
+"caption": "Board games, movies and books",
+"alt": "Shelf of DVDs and board games including Mancala and a tabletop pinball game",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-games.jpg",
+"webp": "/assets/oct2026/in-games-900.webp"
+},
+{
+"id": "in-paintings",
+"group": "inside",
+"caption": "Guest artwork on the walls",
+"alt": "Framed paintings of the cabin woods hanging on the wood-paneled wall",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-paintings.jpg",
+"webp": "/assets/oct2026/in-paintings-900.webp"
+},
+{
 "id": "cabin-porch-flowers",
 "group": "cabin",
 "caption": "Flowers on the front steps",
@@ -169,6 +259,56 @@ window.BK_NEW_PHOTOS=[
 "h": 1600,
 "src": "/assets/oct2026/creek-bank.jpg",
 "webp": "/assets/oct2026/creek-bank-900.webp"
+},
+{
+"id": "in-bathhouse",
+"group": "grounds",
+"caption": "Bath house with washer and dryer",
+"alt": "Bath house laundry area with washer, dryer and hampers",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-bathhouse.jpg",
+"webp": "/assets/oct2026/in-bathhouse-900.webp"
+},
+{
+"id": "in-bathroom",
+"group": "grounds",
+"caption": "Second bathroom in the bath house",
+"alt": "Clean bath house bathroom with toilet and sink",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-bathroom.jpg",
+"webp": "/assets/oct2026/in-bathroom-900.webp"
+},
+{
+"id": "in-picnic-shed",
+"group": "grounds",
+"caption": "Covered picnic shed with long tables",
+"alt": "Metal-roof picnic shed with long wooden picnic tables",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-picnic-shed.jpg",
+"webp": "/assets/oct2026/in-picnic-shed-900.webp"
+},
+{
+"id": "in-outdoor-sink",
+"group": "grounds",
+"caption": "Outdoor sink and counter space",
+"alt": "Covered outdoor sink and counter by the picnic area",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-outdoor-sink.jpg",
+"webp": "/assets/oct2026/in-outdoor-sink-900.webp"
+},
+{
+"id": "in-porch-swing",
+"group": "grounds",
+"caption": "Porch swing under the pavilion",
+"alt": "Wooden porch swing with a cushion hanging under the pavilion",
+"w": 900,
+"h": 1600,
+"src": "/assets/oct2026/in-porch-swing.jpg",
+"webp": "/assets/oct2026/in-porch-swing-900.webp"
 },
 {
 "id": "cabin-kitchen-supper",

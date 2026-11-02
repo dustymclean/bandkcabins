@@ -28,3 +28,9 @@ Published source copy says six sleeping spots, while other listings may differ. 
 
 ## October 2026 photo refresh
 New property photos and a silent woods clip live in `assets/oct2026/` (JPG + 900px WebP). `assets/oct2026.js` lists them with captions and alt text; `assets/site.js` renders any `data-new-photos` block and the tap-to-open photo viewer. To add a photo: drop `name.jpg` and `name-900.webp` in that folder and add an entry to `oct2026.js`. The original Wix gallery is untouched.
+
+## Inquiry form
+`/contact/` posts to FormSubmit (`formsubmit.co`) which emails each inquiry to bandkcabins@gmail.com; `assets/inquiry.js` sends it in the background and shows the thank-you message. The **first** inquiry triggers a one-time "Activate form" email to bandkcabins@gmail.com — Tina must click it once; inquiries sent before activation are held and delivered after. To change the address, edit the `action` URL in `contact/index.html` (and the mailto fallbacks) and re-activate. `/contact/thanks/` is the fallback page when JavaScript is off.
+
+## Videos
+Silent tours in `assets/oct2026/video/` (inside the cabin, around the grounds, creek & sandbar). They play only while on screen and load nothing until scrolled to.
