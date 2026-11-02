@@ -25,3 +25,6 @@ Published source copy says six sleeping spots, while other listings may differ. 
 - `assets/`: emblem, stylesheet, photo references, and gallery script
 - `.github/workflows/deploy.yml`: GitHub Actions deployment
 - `CNAME`, `robots.txt`, `sitemap.xml`, `404.html`: hosting and SEO
+
+## October 2026 photo refresh
+New property photos and a silent woods clip live in `assets/oct2026/` (JPG + 900px WebP). `assets/oct2026.js` lists them with captions and alt text; `assets/site.js` renders any `data-new-photos` block and the tap-to-open photo viewer. To add a photo: drop `name.jpg` and `name-900.webp` in that folder and add an entry to `oct2026.js`. The original Wix gallery is untouched.
